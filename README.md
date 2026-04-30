@@ -6,7 +6,7 @@ Veganism has been my tagline for a while. It both encompasses a lot about me and
 ## Personal Projects
 
 I create a lot of projects I won't finish. I also host a lot of my own infrastructure. You can see my
-infrastruture in the [Frodux Organization on Codeberg](https://codeberg.org/Frodux).
+infrastruture in the [Frodux Organization on Frodux.dev](https://frodux.dev/Frodux).
 
 For most other personal projects that have been touched recently, they're under [my username (tebriel) on
-Codeberg](https://codeberg.org/tebriel)
+Frodux.dev](https://frodux.dev/tebriel)
